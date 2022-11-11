@@ -1,3 +1,4 @@
+### The Animation process
 The models were exported from blender as an fbx file into unreal. This caused a lot of issues.  A lot of textures were missing including all of the image textures and 
 the materials and a few objects were distorted mainly the pool table which i had to remake differenetly in blender and import into unreal. I reapplied the image 
 textures and materials in almost every object including the lights and had to create new emmisive surfaces for the screens and new wooden texture for the 
