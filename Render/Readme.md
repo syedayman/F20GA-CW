@@ -8,7 +8,7 @@ For the stools i used a cylinder mesh and subdivision modifiers to create a smoo
 4 legs. Then i added a torus mesh around the seat as rings to make it appear more authentic.
 
 ### Vending machine 
-i used a mesh cube and scaled to shape. then added subdivisons to create the dispensor, the keypad and the bill and coin acceptors. Materials from google images used 
+I used a mesh cube and scaled to shape. then added subdivisons to create the dispensor, the keypad and the bill and coin acceptors. Materials from google images used 
 to make the side and front decal. I had to UV unwrap the front face as it was a curved surface and fit to shape under UV editing tab.
 
 ### Pool table and pool balls
@@ -25,7 +25,7 @@ Bean bags are UV spheres with cloth simulation and a collison simulation was add
 increased in roughness to give a cloth like texture.
 
 ### Others
-neon lRghts are faces made by loop cuts in the wall with a color and emission shader added to it with high intensity.
+neon lights are faces made by loop cuts in the wall with a color and emission shader added to it with high intensity.
 The floor has a built in checekered texture applied to it to fit the vibe of the gaming room.
 
 
