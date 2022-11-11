@@ -1,4 +1,4 @@
-**please open the unreal level called 'unreal2scene' inside the unreal2 project**
+**The project is in the level called 'unreal2scene' inside the unreal2 project. (File > Open level > unreal2scene)**
 
 ### The Animation process
 The models were exported from blender as an fbx file into unreal. This caused a lot of issues.  A lot of textures were missing including all of the image textures and 
