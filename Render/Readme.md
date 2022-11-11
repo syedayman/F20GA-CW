@@ -27,5 +27,6 @@ increased in roughness to give a cloth like texture.
 ### Others
 neon lights are faces made by loop cuts in the wall with a color and emission shader added to it with high intensity.
 The floor has a built in checekered texture applied to it to fit the vibe of the gaming room.
+Lights include a sun light in the middle of the sun 
 
 
